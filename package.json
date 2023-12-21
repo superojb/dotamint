@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@polkadot/api": "^10.11.2",
+    "@polkadot/wasm-crypto": "^7.3.2"
+  }
+}
